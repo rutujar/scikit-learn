@@ -1,11 +1,11 @@
-# scikit-learn
+# Scikit-Learn
 
 # Datasets
-Androsensor
+* Androsensor
 
-Iris data
+* Iris data
 
 # Machine Learning Algorithm
-Linear regression
+* Linear regression
 
-svm
+* SVM
